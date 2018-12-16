@@ -7,7 +7,6 @@ var moment = require('moment');
 var command = process.argv[2];
 var searchTerm = process.argv.slice(3).join("+");
 var spotify = new Spotify(keys.spotify);
-// var subject = process.argv;
 
 var moviethis = function(movie) {
   var url = "https://www.omdbapi.com/?t="+movie+"&plot=short&apikey=trilogy";
@@ -17,7 +16,6 @@ var moviethis = function(movie) {
     if (!error && response.statusCode === 200 && results.Error != 'Movie not found!') {
       output += "---------------\r\nTitle: "+results.Title+"\r\n"+"Year: "+results.Year+"\r\n"+"IMDB Rating: "+results.Ratings[0].Value+"\r\n"+"Rotten Tomatoes Rating: "+results.Ratings[1].Value
         +"\r\n"+"Country of Production: "+results.Country+"\r\n"+"Language: "+results.Language+"\r\n"+"Plot: "+results.Plot+"\r\n"+"Actors: "+results.Actors+"\r\n";
-      // console.log(output);
       appendthis(output);
     } else {
       appendthis('ERROR: Query returned "'+results.Error+'"');
