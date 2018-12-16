@@ -1,0 +1,792 @@
+magnus:liri alex$ node liri
+Processing: undefined 
+unknown command
+magnus:liri alex$ node liri movie-this batman returns
+Processing: movie-this batman+returns
+
+Movie Search: batman+returns
+---------------
+Title: Batman Returns
+Year: 1992
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 80%
+Country of Production: USA, UK
+Language: English
+Plot: When a corrupt businessman and the grotesque Penguin plot to take control of Gotham City, only Batman can stop them, while the Catwoman has her own agenda.
+Actors: Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken
+
+magnus:liri alex$ node liri concert-this blues traveler
+Processing: concert-this blues+traveler
+
+Concert Search: blues+traveler
+---------------
+Venue: KAABOO (Feb 15+16)
+City:  West Bay
+Date:  02/15/2019
+---------------
+Venue: House of Blues
+City:  Anaheim
+Date:  02/27/2019
+---------------
+Venue: House of Blues
+City:  San Diego
+Date:  02/28/2019
+---------------
+Venue: Brooklyn Bowl
+City:  Las Vegas
+Date:  03/01/2019
+---------------
+Venue: Innings Festival
+City:  Tempe
+Date:  03/02/2019
+---------------
+Venue: Hargray Capitol Theatre
+City:  Macon
+Date:  03/08/2019
+---------------
+Venue: House of Blues
+City:  Orlando
+Date:  03/09/2019
+---------------
+Venue: Soul Kitchen
+City:  Mobile
+Date:  03/11/2019
+---------------
+Venue: Club LA
+City:  Destin
+Date:  03/14/2019
+---------------
+Venue: House of Blues New Orleans
+City:  New Orleans
+Date:  03/15/2019
+
+magnus:liri alex$ node liri spotify-this-song rump shaker
+Processing: spotify-this-song rump+shaker
+
+Song Search: rump+shaker
+---------------------
+Artist(s): Wreckx-N-Effect
+Song:      Rump Shaker
+Link:      https://api.spotify.com/v1/tracks/4dY4JVC0Q9CwpeZ6JAclIc
+Album:     Hard Or Smooth
+---------------------
+Artist(s): Wreckx-N-Effect
+Song:      Rump Shaker - Radio Edit
+Link:      https://api.spotify.com/v1/tracks/1XRWHVXbXpqRWYpHOaNsQr
+Album:     Boom Box Flava
+---------------------
+Artist(s): Suburban Legends
+Song:      Bright Spring Morning
+Link:      https://api.spotify.com/v1/tracks/2aYzMMmzEusa5DTfXfPxPm
+Album:     Rump Shaker
+---------------------
+Artist(s): Wreckx-N-Effect
+Song:      Rump Shaker
+Link:      https://api.spotify.com/v1/tracks/69dW2qerM3Q9zMqikboTcA
+Album:     90s Hip Hop
+---------------------
+Artist(s): Wreckx-N-Effect
+Song:      Rump Shaker
+Link:      https://api.spotify.com/v1/tracks/5s8bvhlmsvgX9LY8Yhj3NJ
+Album:     NOW That's What I Call 90s Pop
+---------------------
+Artist(s): Old School Players
+Song:      Rump Shaker
+Link:      https://api.spotify.com/v1/tracks/0A5xPUMqui3iNkjgM4EUSr
+Album:     30 Essential Old School Hits
+---------------------
+Artist(s): Wreckx-N-Effect
+Song:      Rump Shaker
+Link:      https://api.spotify.com/v1/tracks/4kxOFw0sVf2sDk0FOgUWIB
+Album:     Body By Jake: Modern Pop Workout (BPM 104-128)
+---------------------
+Artist(s): Wreckx-N-Effect
+Song:      Rump Shaker
+Link:      https://api.spotify.com/v1/tracks/6va7GLIJpMx210BilqVNmG
+Album:     NOW That's What I Call A Workout Throwback Edition
+---------------------
+Artist(s): Suburban Legends
+Song:      Up All Night
+Link:      https://api.spotify.com/v1/tracks/7qKua2wPHEY51Zc7p9mGKt
+Album:     Rump Shaker
+---------------------
+Artist(s): Suburban Legends
+Song:      High Fives
+Link:      https://api.spotify.com/v1/tracks/1EJnKmAeovWlsT078slSel
+Album:     Rump Shaker
+---------------------
+Artist(s): Suburban Legends
+Song:      All The Nights
+Link:      https://api.spotify.com/v1/tracks/1WOGNqO8w8lj8kbEqCJHM7
+Album:     Rump Shaker
+---------------------
+Artist(s): Suburban Legends
+Song:      Autumn In The Park
+Link:      https://api.spotify.com/v1/tracks/33nVTMk2ciFvEZYRHOigsR
+Album:     Rump Shaker
+---------------------
+Artist(s): Suburban Legends
+Song:      Blingity Bling
+Link:      https://api.spotify.com/v1/tracks/4cyZq3lntC8yf1Kt2djEAa
+Album:     Rump Shaker
+---------------------
+Artist(s): Suburban Legends
+Song:      Do It For The Kids
+Link:      https://api.spotify.com/v1/tracks/1XYNeCQXf9EUFRxqE9RPsA
+Album:     Rump Shaker
+---------------------
+Artist(s): Suburban Legends
+Song:      You
+Link:      https://api.spotify.com/v1/tracks/25zgYuEdAI9txZ5FkPNO4s
+Album:     Rump Shaker
+---------------------
+Artist(s): Suburban Legends
+Song:      Powerful Game
+Link:      https://api.spotify.com/v1/tracks/7kdXOZZRVXZE6yr9gSgxVJ
+Album:     Rump Shaker
+---------------------
+Artist(s): Suburban Legends
+Song:      Zanzibar
+Link:      https://api.spotify.com/v1/tracks/3NAyabQQiDyYDYJzxSXl1v
+Album:     Rump Shaker
+---------------------
+Artist(s): DJ Crazy J Rodriguez
+Song:      Rump Shaker
+Link:      https://api.spotify.com/v1/tracks/6i66viExXLaKmctu3vsdU2
+Album:     Throwback Remixes
+---------------------
+Artist(s): Suburban Legends
+Song:      Last Dance
+Link:      https://api.spotify.com/v1/tracks/1I4ciEgvvmhva7eAWzQYJn
+Album:     Rump Shaker
+---------------------
+Artist(s): Wreckx-N-Effect
+Song:      Rump Shaker
+Link:      https://api.spotify.com/v1/tracks/3P6YCzYGtJcKTFpheKc2J2
+Album:     American Reunion
+
+magnus:liri alex$ node liri do-what-it-says
+Processing: do-what-it-says 
+Processing: concert-this willie nelson
+
+Concert Search: willie nelson
+---------------
+Venue: 3TEN Austin City Limits Live
+City:  Austin
+Date:  12/29/2018
+---------------
+Venue: Moody Theater - Austin TX
+City:  Austin
+Date:  12/30/2018
+---------------
+Venue: 3TEN Austin City Limits Live
+City:  Austin
+Date:  12/31/2018
+---------------
+Venue: Shreveport Municipal Memorial Auditorium
+City:  Shreveport
+Date:  01/02/2019
+---------------
+Venue: Paragon Casino Resort
+City:  Marksville
+Date:  01/04/2019
+---------------
+Venue: Orpheum Theatre
+City:  Memphis
+Date:  01/05/2019
+---------------
+Venue: Tivoli Theatre
+City:  Chattanooga
+Date:  01/07/2019
+---------------
+Venue: North Charleston Coliseum & Performing Arts Center
+City:  North Charleston
+Date:  01/09/2019
+---------------
+Venue: Tennessee Theatre
+City:  Knoxville
+Date:  01/10/2019
+---------------
+Venue: Bridgestone Arena
+City:  Nashville
+Date:  01/12/2019
+---------------
+Venue: Abraham Chavez Theatre
+City:  El Paso
+Date:  02/14/2019
+---------------
+Venue: Bomb Factory
+City:  Dallas
+Date:  02/16/2019
+---------------
+Venue: Hard Rock Hotel And Casino Tulsa
+City:  Catoosa
+Date:  02/17/2019
+---------------
+Venue: Wagner Noel Performing Arts Center
+City:  Midland
+Date:  02/19/2019
+---------------
+Venue: FireLake Arena
+City:  Shawnee
+Date:  02/22/2019
+---------------
+Venue: 7 Clans First Council Casino Hotel
+City:  Newkirk
+Date:  02/23/2019
+---------------
+Venue: Saenger Theatre Mobile
+City:  Mobile
+Date:  02/25/2019
+---------------
+Venue: Fillmore New Orleans
+City:  New Orleans
+Date:  02/27/2019
+---------------
+Venue: Florida Strawberry Festival
+City:  Plant City
+Date:  03/01/2019
+---------------
+Venue: Shreveport Municipal Memorial Auditorium
+City:  Shreveport
+Date:  03/04/2019
+---------------
+Venue: Tennessee Theatre
+City:  Knoxville
+Date:  04/06/2019
+---------------
+Venue: WhiteWater Amphitheater
+City:  New Braunfels
+Date:  04/12/2019
+---------------
+Venue: WhiteWater Amphitheater
+City:  New Braunfels
+Date:  04/13/2019
+---------------
+Venue: WhiteWater Amphitheater
+City:  New Braunfels
+Date:  04/14/2019
+---------------
+Venue: Redondo Beach, CA
+City:  Redondo Beach
+Date:  05/03/2019
+
+magnus:liri alex$ node liri do-what-it-says
+Processing: do-what-it-says 
+Processing: spotify-this-song party all the time
+
+Song Search: party all the time
+---------------------
+Artist(s): Eddie Murphy
+Song:      Party All the Time
+Link:      https://api.spotify.com/v1/tracks/6N5DRCQUSXT1qQqmqsO92B
+Album:     How Could It Be
+---------------------
+Artist(s): All Time Low
+Song:      Life Of The Party
+Link:      https://api.spotify.com/v1/tracks/4pcyWJiAvOwdVxn7xjhR0N
+Album:     Last Young Renegade
+---------------------
+Artist(s): The Black Eyed Peas
+Song:      Party All The Time
+Link:      https://api.spotify.com/v1/tracks/793EkKfnsmJljhpxfMPmKG
+Album:     THE E.N.D. (THE ENERGY NEVER DIES)
+---------------------
+Artist(s): All Time Low
+Song:      A Party Song (The Walk of Shame)
+Link:      https://api.spotify.com/v1/tracks/67Za0Ax9L4JuVszW4UxJ29
+Album:     Nothing Personal (Deluxe Version)
+---------------------
+Artist(s): Eddie Murphy
+Song:      Party All the Time
+Link:      https://api.spotify.com/v1/tracks/3JgOPg3wx1ABbQv0Ax4Rdw
+Album:     80s 100 Hits
+---------------------
+Artist(s): Danny Brown
+Song:      Party All The Time
+Link:      https://api.spotify.com/v1/tracks/6L33UVo5duBnDceNcQXKTW
+Album:     XXX (Deluxe Edition)
+---------------------
+Artist(s): Band of Horses
+Song:      Weed Party
+Link:      https://api.spotify.com/v1/tracks/3zt3CsIkFF6e1vIMe4jQ8m
+Album:     Everything All The Time
+---------------------
+Artist(s): All Time Low
+Song:      The Party Scene
+Link:      https://api.spotify.com/v1/tracks/0KXNWL02NswmN9gDyPCPG9
+Album:     Put Up or Shut Up (Deluxe Version)
+---------------------
+Artist(s): Glee Cast
+Song:      Party All the Time (Glee Cast Version feat. Gwyneth Paltrow)
+Link:      https://api.spotify.com/v1/tracks/5CddZd8HUnPB0lREIKcKRu
+Album:     Glee: The Music - Celebrating 100 Episodes
+---------------------
+Artist(s): All Time Low
+Song:      A Party Song (The Walk of Shame)
+Link:      https://api.spotify.com/v1/tracks/2F0cf9kFigeAQu3M3UMv9z
+Album:     Nothing Personal
+---------------------
+Artist(s): Eddie Murphy
+Song:      Party All the Time
+Link:      https://api.spotify.com/v1/tracks/63vt7hn9syx75bUe39GNgW
+Album:     80 Totally 80s Hits
+---------------------
+Artist(s): All Time Low
+Song:      The Party Scene
+Link:      https://api.spotify.com/v1/tracks/1KF8c8jFJEfhjZwr2z2Euj
+Album:     Put Up Or Shut Up
+---------------------
+Artist(s): Lagerstein
+Song:      Party All the Time
+Link:      https://api.spotify.com/v1/tracks/0wbw4sVFIKmD6OU15nSc5n
+Album:     Party All the Time
+---------------------
+Artist(s): All Time Low
+Song:      A Party Song (The Walk of Shame)
+Link:      https://api.spotify.com/v1/tracks/1CojhzuXnT9SDme1LZwYfS
+Album:     Straight To DVD
+---------------------
+Artist(s): Sharam
+Song:      Party All The Time
+Link:      https://api.spotify.com/v1/tracks/5ho5w0CgWmTGxuo2Ehemyc
+Album:     PATT (Party All The Time) EP
+---------------------
+Artist(s): The Elwins
+Song:      Party All the Time
+Link:      https://api.spotify.com/v1/tracks/0BGa0EC6PYZ5WVCkGCngyV
+Album:     Party All the Time
+---------------------
+Artist(s): Skullwell, Bassnez
+Song:      Stays the Same
+Link:      https://api.spotify.com/v1/tracks/4lUtzKNIjRYKFiBLpYFHmo
+Album:     Colcci: Party All The Time
+---------------------
+Artist(s): Alok, Vinne
+Song:      Free
+Link:      https://api.spotify.com/v1/tracks/3l4tElKEOZpyFHlmEInDuZ
+Album:     Colcci: Party All The Time
+---------------------
+Artist(s): Sharam, Philippe B., Romain Curtis
+Song:      PATT (Party All The Time) - Philippe B & Romain Curtis Mix
+Link:      https://api.spotify.com/v1/tracks/1O7sG74RNhH57y9CxQuTxh
+Album:     ThriveMix 04
+---------------------
+Artist(s): Halloween Kids, All Hallows' Eve, Kids' Halloween Party
+Song:      The Time Warp
+Link:      https://api.spotify.com/v1/tracks/1xnj3kH1U6QPAeeYO8wzJn
+Album:     Ultimate Halloween for Kids
+
+magnus:liri alex$ node liri do-what-it-says
+Processing: do-what-it-says 
+Processing: movie-this UHF
+
+Movie Search: UHF
+---------------
+Title: UHF
+Year: 1989
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 63%
+Country of Production: USA
+Language: English
+Plot: An unemployed visionary becomes the manager of a local public station. The station becomes a success, with all sorts of hilarious sight gags and wacky humor.
+Actors: 'Weird Al' Yankovic, Victoria Jackson, Kevin McCarthy, Michael Richards
+
+magnus:liri alex$ node liri do-what-it-says
+Processing: do-what-it-says 
+Processing: movie-this UHF
+
+Movie Search: UHF
+---------------
+Title: UHF
+Year: 1989
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 63%
+Country of Production: USA
+Language: English
+Plot: An unemployed visionary becomes the manager of a local public station. The station becomes a success, with all sorts of hilarious sight gags and wacky humor.
+Actors: 'Weird Al' Yankovic, Victoria Jackson, Kevin McCarthy, Michael Richards
+
+magnus:liri alex$ node liri do-what-it-says
+Processing: do-what-it-says 
+Processing: spotify-this-song I Want it That Way
+
+Song Search: I Want it That Way
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album:     The Hits--Chapter One
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+Album:     Millennium
+---------------------
+Artist(s): Anthem Lights
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album:     Covers Part IV
+---------------------
+Artist(s): Tyler and Mark
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy
+Album:     Beautiful Dreams
+---------------------
+Artist(s): Dynamite Boy
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/0F5f29urvisi4TiwJOQZWN
+Album:     Punk Goes Pop
+---------------------
+Artist(s): "Weird Al" Yankovic
+Song:      Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Link:      https://api.spotify.com/v1/tracks/4vHb50VkxDzHYwLiHfWczK
+Album:     Poodle Hat
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5
+Album:     90 Sweet 90s Hits!
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/2KMwtsWwL5QDtSpm814tju
+Album:     NKOTBSB
+---------------------
+Artist(s): Manuel Costa
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/4Sp4RxkWukxqJykl0ySNQi
+Album:     I Want It That Way
+---------------------
+Artist(s): Boyce Avenue
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/16COzZ7jCVn3O8b8ZgviOx
+Album:     Cover Sessions, Vol. 2
+---------------------
+Artist(s): Glee Cast
+Song:      Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Link:      https://api.spotify.com/v1/tracks/3t7m7AzV2ntuI9fIT6KREP
+Album:     Bye Bye Bye / I Want It That Way (Glee Cast Version)
+---------------------
+Artist(s): Steel Panther
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/0448cNUvZGCAlUpIPO5kdY
+Album:     I Want It That Way
+---------------------
+Artist(s): Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/1Le3uYU5NU9cXXtYeSWnEM
+Album:     Selfies on Kodachrome
+---------------------
+Artist(s): #90s Update
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/0rZTeneJh7IM5SdoabMcYA
+Album:     #90s Update
+---------------------
+Artist(s): MaxLife
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/5MZFb9O6bnPjoDMjL0K2iM
+Album:     I Want It That Way
+---------------------
+Artist(s): Scary Pockets, Casey Abrams
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/4IWQXV01Lp0wsXCXo09EBr
+Album:     Nu Funk
+---------------------
+Artist(s): "Weird Al" Yankovic
+Song:      Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Link:      https://api.spotify.com/v1/tracks/1vaico2C72imYowF4Kv04V
+Album:     The Essential "Weird Al" Yankovic
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/75W4IDdKhHvRQZpaDx9YPg
+Album:     NOW That's What I Call 90s Pop
+---------------------
+Artist(s): Landon Austin & Julia Sheer
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/1zUJq8Ap2u9MyDo0HJxVU5
+Album:     I Want It That Way
+---------------------
+Artist(s): Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/6FNTpwQU3VNZvezUPYMjPY
+Album:     PMJ Is For Lovers: The Love Song Collection
+
+magnus:liri alex$ node liri do-what-it-says
+Processing: do-what-it-says 
+Processing: spotify-this-song I Want it That Way
+
+Song Search: I Want it That Way
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album:     The Hits--Chapter One
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+Album:     Millennium
+---------------------
+Artist(s): Anthem Lights
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album:     Covers Part IV
+---------------------
+Artist(s): Tyler and Mark
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy
+Album:     Beautiful Dreams
+---------------------
+Artist(s): Dynamite Boy
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/0F5f29urvisi4TiwJOQZWN
+Album:     Punk Goes Pop
+---------------------
+Artist(s): "Weird Al" Yankovic
+Song:      Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Link:      https://api.spotify.com/v1/tracks/4vHb50VkxDzHYwLiHfWczK
+Album:     Poodle Hat
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5
+Album:     90 Sweet 90s Hits!
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/2KMwtsWwL5QDtSpm814tju
+Album:     NKOTBSB
+---------------------
+Artist(s): Manuel Costa
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/4Sp4RxkWukxqJykl0ySNQi
+Album:     I Want It That Way
+---------------------
+Artist(s): Boyce Avenue
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/16COzZ7jCVn3O8b8ZgviOx
+Album:     Cover Sessions, Vol. 2
+---------------------
+Artist(s): Glee Cast
+Song:      Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Link:      https://api.spotify.com/v1/tracks/3t7m7AzV2ntuI9fIT6KREP
+Album:     Bye Bye Bye / I Want It That Way (Glee Cast Version)
+---------------------
+Artist(s): Steel Panther
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/0448cNUvZGCAlUpIPO5kdY
+Album:     I Want It That Way
+---------------------
+Artist(s): Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/1Le3uYU5NU9cXXtYeSWnEM
+Album:     Selfies on Kodachrome
+---------------------
+Artist(s): #90s Update
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/0rZTeneJh7IM5SdoabMcYA
+Album:     #90s Update
+---------------------
+Artist(s): MaxLife
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/5MZFb9O6bnPjoDMjL0K2iM
+Album:     I Want It That Way
+---------------------
+Artist(s): Scary Pockets, Casey Abrams
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/4IWQXV01Lp0wsXCXo09EBr
+Album:     Nu Funk
+---------------------
+Artist(s): "Weird Al" Yankovic
+Song:      Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Link:      https://api.spotify.com/v1/tracks/1vaico2C72imYowF4Kv04V
+Album:     The Essential "Weird Al" Yankovic
+---------------------
+Artist(s): Backstreet Boys
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/75W4IDdKhHvRQZpaDx9YPg
+Album:     NOW That's What I Call 90s Pop
+---------------------
+Artist(s): Landon Austin & Julia Sheer
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/1zUJq8Ap2u9MyDo0HJxVU5
+Album:     I Want It That Way
+---------------------
+Artist(s): Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song:      I Want It That Way
+Link:      https://api.spotify.com/v1/tracks/6FNTpwQU3VNZvezUPYMjPY
+Album:     PMJ Is For Lovers: The Love Song Collection
+
+magnus:liri alex$ node liri do-what-it-says
+Processing: do-what-it-says 
+Processing: concert-this lady gaga
+
+Concert Search: lady gaga
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  12/28/2018
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  12/30/2018
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  12/31/2018
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  01/17/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  01/19/2019
+---------------
+Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, January 19 and January 20)
+City:  Las Vegas
+Date:  01/20/2019
+---------------
+Venue: LADY GAGA JAZZ & PIANO
+City:  Las Vegas
+Date:  01/20/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  01/24/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  01/26/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  01/31/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  02/02/2019
+---------------
+Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, February 2 and February 3)
+City:  Las Vegas
+Date:  02/03/2019
+---------------
+Venue: LADY GAGA JAZZ & PIANO
+City:  Las Vegas
+Date:  02/03/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  05/30/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  06/01/2019
+---------------
+Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)
+City:  Las Vegas
+Date:  06/02/2019
+---------------
+Venue: LADY GAGA JAZZ & PIANO
+City:  Las Vegas
+Date:  06/02/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  06/06/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  06/08/2019
+---------------
+Venue: LADY GAGA JAZZ & PIANO
+City:  Las Vegas
+Date:  06/09/2019
+---------------
+Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)
+City:  Las Vegas
+Date:  06/09/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  06/12/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  06/14/2019
+---------------
+Venue: LADY GAGA JAZZ & PIANO
+City:  Las Vegas
+Date:  06/15/2019
+---------------
+Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)
+City:  Las Vegas
+Date:  06/15/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  10/17/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  10/19/2019
+---------------
+Venue: LADY GAGA JAZZ & PIANO
+City:  Las Vegas
+Date:  10/20/2019
+---------------
+Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)
+City:  Las Vegas
+Date:  10/20/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  10/23/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  10/25/2019
+---------------
+Venue: LADY GAGA JAZZ & PIANO
+City:  Las Vegas
+Date:  10/26/2019
+---------------
+Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)
+City:  Las Vegas
+Date:  10/26/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  10/31/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  11/02/2019
+---------------
+Venue: LADY GAGA JAZZ & PIANO
+City:  Las Vegas
+Date:  11/03/2019
+---------------
+Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)
+City:  Las Vegas
+Date:  11/03/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  11/06/2019
+---------------
+Venue: LADY GAGA ENIGMA
+City:  Las Vegas
+Date:  11/08/2019
+---------------
+Venue: LADY GAGA JAZZ & PIANO
+City:  Las Vegas
+Date:  11/09/2019
+---------------
+Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)
+City:  Las Vegas
+Date:  11/09/2019
+
+magnus:liri alex$ 
